@@ -1,8 +1,8 @@
-# PRODIGY_WD_03(Tic-Tac-Toe Web application)
+# PRODIGY_WD_04(Personal Portfolio)
 
-Build a tic-tac-toe web application . Using HTML, CSS, and JavaScript.
+Using HTML, CSS, and JavaScript.
 
-<a href="https://1109akshatverma.github.io/PRODIGY_WD_03/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://1109akshatverma.github.io/PRODIGY_WD_04/" target="_blank">**Visit Now** 🚀</a>
 
 ## 📌 Tech Stack
 
